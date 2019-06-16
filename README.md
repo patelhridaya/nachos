@@ -1,4 +1,4 @@
-# Nachos
+# NachosOS
 The following project is an implementation of a operating system based on NachOs for Java 1.5.
 
 ## Installation Instructions
